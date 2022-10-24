@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/user-form/static/css/main.c89b7e10.css",
+    "main.js": "/user-form/static/js/main.926c1c57.js",
+    "index.html": "/user-form/index.html",
+    "main.c89b7e10.css.map": "/user-form/static/css/main.c89b7e10.css.map",
+    "main.926c1c57.js.map": "/user-form/static/js/main.926c1c57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89b7e10.css",
+    "static/js/main.926c1c57.js"
+  ]
+}
